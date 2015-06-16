@@ -190,7 +190,7 @@ sub check_options {
 	verb "from = $from";
 	verb "message = $message";
 	verb "port = $port";
-	verb "system_type = $sytem_type";
+	verb "system_type = $system_type";
 	verb "service_type = $service_type";
 	verb "data_coding = $data_coding";
 }
